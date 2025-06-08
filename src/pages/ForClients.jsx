@@ -2,9 +2,6 @@
 import React, { useState } from "react";
 import { Button } from "@/components/ui/button";
 
-import React, { useState } from "react";
-import { Button } from "@/components/ui/button";
-
 export default function ForClients() {
   const [openIndex, setOpenIndex] = useState(null);
 

@@ -2,9 +2,6 @@
 import React, { useState } from "react";
 import { Button } from "@/components/ui/button";
 
-import React, { useState } from "react";
-import { Button } from "@/components/ui/button";
-
 export default function Booking() {
   const [therapy, setTherapy] = useState("");
   const [date, setDate] = useState("");

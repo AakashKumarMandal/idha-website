@@ -1,8 +1,6 @@
 // From therapists.txt
 import React from "react";
 
-import React from "react";
-
 export default function Therapists() {
   const therapists = [
     {

@@ -4,11 +4,6 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Heart, Calendar, MessageSquare } from "lucide-react";
 
-import React from "react";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
-import { Heart, Calendar, MessageSquare } from "lucide-react";
-
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-rose-100 to-white">

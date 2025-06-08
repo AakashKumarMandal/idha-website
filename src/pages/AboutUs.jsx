@@ -1,8 +1,6 @@
 // From about.txt
 import React from "react";
 
-import React from "react";
-
 export default function AboutUs() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-rose-100 to-white text-gray-800">

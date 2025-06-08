@@ -2,9 +2,6 @@
 import React, { useState } from "react";
 import { Button } from "@/components/ui/button";
 
-import React, { useState } from "react";
-import { Button } from "@/components/ui/button";
-
 export default function Contact() {
   const [form, setForm] = useState({ name: "", email: "", message: "" });
 
